@@ -2,7 +2,11 @@ package com.continuous.delivery.demo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
-
+/**
+ * 
+ * @author _
+ *
+ */
 public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
